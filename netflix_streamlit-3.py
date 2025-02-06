@@ -135,7 +135,7 @@ df_reshaped = pd.read_csv('netflix_titles.csv')
 
 !streamlit run streamlit_app.py &>/dev/null &
 
-!ngrok authtoken 2sL2xhz5pTXbMUJLzltvR0SoUEa_ZoNdVQD7mjsqN9g9e4H4
+!ngrok authtoken 2sbhzmMrnAYf8oLLhxH2dS4xjWP_22g48Z2zX4pScYfuKVTfV
 
 from pyngrok import ngrok
 
